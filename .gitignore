@@ -1,0 +1,14 @@
+.env
+
+__pycache__/
+build/
+dist/
+
+test*
+*txt
+*zip
+
+*session
+*session-journal
+
+*egg-info/
